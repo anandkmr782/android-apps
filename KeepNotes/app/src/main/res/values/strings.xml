@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add">Add New</string>
+    <string name="reset">Delete All</string>
+    <string name="notes">Notes</string>
+    <string name="keep_notes">Keep All Notes in Pocket</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
